@@ -1,0 +1,24 @@
+{
+  "name": "code-themes",
+  "owner": {
+    "name": "Grishma"
+  },
+  "description": "Three dark animated themes: Ash Snow, Blue Steel and Cyberpunk.",
+  "plugins": [
+    {
+      "name": "ash-snow",
+      "source": "./themes/ash-snow",
+      "description": "Charcoal night theme with a moonlit snowy range behind frosted glass."
+    },
+    {
+      "name": "blue-steel",
+      "source": "./themes/blue-steel",
+      "description": "Cool blue-grey night theme with drifting ridges, a hiker and birds."
+    },
+    {
+      "name": "cyberpunk",
+      "source": "./themes/cyberpunk",
+      "description": "Soft neon pink and teal over a night-city skyline."
+    }
+  ]
+}
